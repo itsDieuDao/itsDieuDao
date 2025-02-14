@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Project 1</b>
-  - [Compliance Framework Mapping & Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Compliance Framework Mapping & Implementation](https://github.com/itsDieuDao/Compliance-Framework-Mapping-Implementation)
 
 
 <h2>📺 Popular YouTube Videos</h2>
