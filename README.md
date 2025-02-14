@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Compliance Framework Mapping & Implementation</b>
-  - [NIST Cybersecurity Framework (CSF)](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Project 1</b>
+  - [Compliance Framework Mapping & Implementation](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
 <h2>📺 Popular YouTube Videos</h2>
