@@ -16,9 +16,6 @@
  
   - <b>Project 5</b>
   - [Audit or Certification Readiness](https://github.com/itsDieuDao/Audit-or-Certification-Readiness)
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Hello World](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
