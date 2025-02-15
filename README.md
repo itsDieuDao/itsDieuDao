@@ -6,9 +6,16 @@
   - [Compliance Framework Mapping & Implementation](https://github.com/itsDieuDao/Compliance-Framework-Mapping-Implementation)
 
 - <b>Project 2</b>
-  - [Regulatory Mapping & Risk Assessment](github.com/itsDieuDao/Regulatory-Mapping-Risk-Assessment)
+  - [Regulatory Mapping & Risk Assessment](https://github.com/itsDieuDao/Regulatory-Mapping-Risk-Assessment)
 
-  
+  - <b>Project 3</b>
+  - [Security Auditing & Risk Remediation](https://github.com/itsDieuDao/Security-Auditing-Risk-Remediation)
+
+  - <b>Project 4</b>
+  - [Security Logging & Incident Response](https://github.com/itsDieuDao/Security-Auditing-Risk-Remediation)
+ 
+  - <b>Project 5</b>
+  - [Audit or Certification Readiness](https://github.com/itsDieuDao/Security-Auditing-Risk-Remediation)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Hello World](https://www.youtube.com/watch?v=a83ASGn_V_s)
