@@ -5,7 +5,10 @@
 - <b>Project 1</b>
   - [Compliance Framework Mapping & Implementation](https://github.com/itsDieuDao/Compliance-Framework-Mapping-Implementation)
 
+- <b>Project 2</b>
+  - [Regulatory Mapping & Risk Assessment](github.com/itsDieuDao/Regulatory-Mapping-Risk-Assessment)
 
+  
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Hello World](https://www.youtube.com/watch?v=a83ASGn_V_s)
