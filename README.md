@@ -12,10 +12,10 @@
   - [Security Auditing & Risk Remediation](https://github.com/itsDieuDao/Security-Auditing-Risk-Remediation)
 
   - <b>Project 4</b>
-  - [Security Logging & Incident Response](https://github.com/itsDieuDao/Security-Auditing-Risk-Remediation)
+  - [Security Logging & Incident Response](https://github.com/itsDieuDao/Security-Logging-Incident-Response)
  
   - <b>Project 5</b>
-  - [Audit or Certification Readiness](https://github.com/itsDieuDao/Security-Auditing-Risk-Remediation)
+  - [Audit or Certification Readiness](https://github.com/itsDieuDao/Audit-or-Certification-Readiness)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Hello World](https://www.youtube.com/watch?v=a83ASGn_V_s)
