@@ -18,7 +18,7 @@
   - [Audit or Certification Readiness](https://github.com/itsDieuDao/Audit-or-Certification-Readiness)
 
 - <b>Project 6</b>
-  - [Creating a Basic Home Security Operations Center (SOC)]()
+  - [Creating a Basic Home Security Operations Center (SOC)](https://github.com/itsDieuDao/Creating-a-Basic-Home-Security-Operations-Center-SOC-)  
       
   
 
