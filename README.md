@@ -7,13 +7,13 @@
 
 - <b>Project 2</b>
   - [Regulatory Mapping & Risk Assessment](https://github.com/itsDieuDao/Regulatory-Mapping-Risk-Assessment)
-
+  
 - <b>Project 3</b>
   - [Security Auditing & Risk Remediation](https://github.com/itsDieuDao/Security-Auditing-Risk-Remediation)
-
+  
 - <b>Project 4</b>
   - [Security Logging & Incident Response](https://github.com/itsDieuDao/Security-Logging-Incident-Response)
- 
+   
 - <b>Project 5</b>
   - [Audit or Certification Readiness](https://github.com/itsDieuDao/Audit-or-Certification-Readiness)
 
