@@ -1,6 +1,4 @@
-<h1>Howdy, I'm Dieu! </h1>
-
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h1>👨‍💻 Cybersecurity Projects:</h1>
 
 - [Compliance Framework Mapping & Implementation](https://github.com/itsDieuDao/Compliance-Framework-Mapping-Implementation)  
 
